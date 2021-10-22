@@ -12,7 +12,6 @@ dependencies {
     implementation(deps.androidx.core)
     implementation(deps.androidx.appcompat)
     implementation(deps.android.material)
-    implementation(deps.bundles.androidx.compose)
     implementation(deps.androidx.lifecycle.runtime)
     implementation(project(":domain"))
 
