@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Memo Sample"
 include(":app")
+include(":data-remote")
+include(":domain")
+include(":data-local")
